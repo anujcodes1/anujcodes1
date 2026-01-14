@@ -26,7 +26,7 @@
 
 ### 💻 Programming & DSA  
 <div align="left">
-<img src="https://skillicons.dev/icons?i=python,c,cpp&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,c,java&theme=light" />
 </div>
 
 - Data Structures & Algorithms  
@@ -96,7 +96,7 @@
 ---
 
 ## 🌱 Currently Working On  
-- Advanced DSA for placements  
+- DSA for placements  
 - Backend optimization & scalable APIs  
 - Applied Machine Learning projects  
 - Preparing for higher studies  
