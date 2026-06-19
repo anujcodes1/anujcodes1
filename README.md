@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=600&color=0A66C2&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Anuj+Mishra;Final+Year+B.Tech+CSE+(AI+%26+ML)+Student;Aspiring+Software+Developer;AI+%2F+ML+Engineer+%7C+Backend+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=600&color=0A66C2&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Anuj+Mishra;Graduated+B.Tech+CSE+(AI+%26+ML)+Student;Aspiring+Software+Developer;AI+%2F+ML+Engineer+%7C+Backend+Developer" />
 
 </div>
 
