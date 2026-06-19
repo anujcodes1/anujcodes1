@@ -8,7 +8,7 @@
 
 ## 👨‍🎓 About Me  
   
-🎓 Final Year **B.Tech – Computer Science & Engineering (AI & ML)** student  
+🎓 Graduated **B.Tech – Computer Science & Engineering (AI & ML)**  
 💻 Aspiring **Software Developer | AI/ML Engineer | Backend Developer**  
 📌 Strong interest in building scalable, real-world applications  
 🚀 Actively preparing for **placements** and exploring **higher studies**
